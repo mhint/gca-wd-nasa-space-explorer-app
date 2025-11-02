@@ -52,5 +52,3 @@ The goal is to ensure users can easily access or clearly view content regardless
 ### Your Task
 * **Fetch the JSON:** Request the CDN URL above and parse the returned array.
 * **Display the Gallery:** For each item, show the image (or video thumbnail/player), title, and date.
-
-
